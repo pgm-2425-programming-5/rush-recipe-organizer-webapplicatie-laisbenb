@@ -1,0 +1,88 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "name": "Spaghetti Bolognese",
+            "ingredients": [
+                "200g spaghetti",
+                "100g ground beef",
+                "1 onion, diced",
+                "2 garlic cloves, minced",
+                "400g canned tomatoes",
+                "2 tbsp olive oil",
+                "Salt and pepper to taste",
+                "Parmesan cheese, grated"
+            ],
+            "instructions": "Cook spaghetti according to package instructions. Heat olive oil in a pan, add onions and garlic, sauté until softened. Add ground beef, cook until browned. Pour in canned tomatoes, season with salt and pepper, and simmer for 15 minutes. Serve sauce over spaghetti, topped with Parmesan cheese.",
+            "category": [
+                "Lunch",
+                "Diner"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Pancakes",
+            "ingredients": [
+                "150g flour",
+                "2 eggs",
+                "300ml milk",
+                "1 tbsp sugar",
+                "Pinch of salt",
+                "Butter for frying"
+            ],
+            "instructions": "In a bowl, whisk together flour, sugar, and salt. Add eggs and milk, and whisk until smooth. Heat butter in a pan, pour in batter to form pancakes, and cook until golden on both sides. Serve with toppings of choice.",
+            "category": [
+                "Breakfast"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Caesar Salad",
+            "ingredients": [
+                "1 romaine lettuce",
+                "50g croutons",
+                "50g Parmesan cheese, shaved",
+                "1 chicken breast, grilled and sliced",
+                "Caesar dressing"
+            ],
+            "instructions": "Chop romaine lettuce and place in a large bowl. Add grilled chicken slices, croutons, and Parmesan cheese. Drizzle with Caesar dressing and toss to combine.",
+            "category": [
+                "Lunch",
+                "Diner"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Chocolate Chip Cookies",
+            "ingredients": [
+                "200g flour",
+                "100g butter",
+                "100g sugar",
+                "1 egg",
+                "100g chocolate chips",
+                "1 tsp baking powder",
+                "Pinch of salt"
+            ],
+            "instructions": "Preheat oven to 180°C. Cream butter and sugar together, then add the egg and mix well. Stir in flour, baking powder, salt, and chocolate chips. Drop spoonfuls of dough onto a baking sheet and bake for 10-12 minutes.",
+            "category": [
+                "Dessert"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Omelette",
+            "ingredients": [
+                "3 eggs",
+                "50g cheese, grated",
+                "1 tbsp butter",
+                "Salt and pepper to taste",
+                "Optional: vegetables, ham, or mushrooms"
+            ],
+            "instructions": "Beat eggs in a bowl with salt and pepper. Melt butter in a pan, pour in the eggs, and cook until edges set. Add cheese and any other fillings, fold in half, and cook until cheese melts.",
+            "category": [
+                "Breakfast",
+                "Lunch"
+            ]
+        }
+    ]
+}
